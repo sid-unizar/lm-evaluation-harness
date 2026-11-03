@@ -1,17 +1,27 @@
 # Aragonese Bench (cadiera)
 
-A benchmark suite for evaluating language models in Aragonese (ARG/AN), a low-resourced Romance language spoken in Northern Spain. Contains the following tasks:
+## Paper
 
-- `copa_an`: XCOPA [https://huggingface.co/datasets/cadiera/copa-an]
-- `wnli_an`: WNLI [https://huggingface.co/datasets/cadiera/wnli-an]
-- `belebele_arg_Latn`: Belebele [https://huggingface.co/datasets/cadiera/belebele_arg_Latn]
-- `paws_an`: PAWS-X [https://huggingface.co/datasets/cadiera/paws_an]
-- `siqa_an`: SIQA (only validation set) [https://huggingface.co/datasets/cadiera/SIQA_an]
-- `mgsm_direct_an`: MGSM (Direct version) [https://huggingface.co/datasets/cadiera/mgsm_an]
+A benchmark suite for evaluating language models in Aragonese (ARG/AN), a low-resourced Romance language spoken in Northern Spain.
 
 All datasets have been corrected by native Aragonese speakers to ensure high quality. All details will be released in an upcoming paper.
 
 The name (`cadiera`) is a pun on the Aragonese name for bench(mark).
+
+### Groups, Tags, and Tasks
+
+#### Groups
+
+* `aragonese_bench_cadiera`
+
+#### Tasks
+
+* `copa_an`: XCOPA [https://huggingface.co/datasets/cadiera/copa-an]
+* `wnli_an`: WNLI [https://huggingface.co/datasets/cadiera/wnli-an]
+* `belebele_arg_Latn`: Belebele [https://huggingface.co/datasets/cadiera/belebele_arg_Latn]
+* `paws_an`: PAWS-X [https://huggingface.co/datasets/cadiera/paws_an]
+* `siqa_an`: SIQA (only validation set) [https://huggingface.co/datasets/cadiera/SIQA_an]
+* `mgsm_direct_an`: MGSM (Direct version) [https://huggingface.co/datasets/cadiera/mgsm_an]
 
 ### Checklist
 
