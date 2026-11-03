@@ -1,0 +1,25 @@
+group: flores_an
+task:
+  - aragonese_bench_cadiera_flores_an-ca
+  - aragonese_bench_cadiera_flores_an-de
+  - aragonese_bench_cadiera_flores_an-en
+  - aragonese_bench_cadiera_flores_an-es
+  - aragonese_bench_cadiera_flores_an-eu
+  - aragonese_bench_cadiera_flores_an-fr
+  - aragonese_bench_cadiera_flores_an-gl
+  - aragonese_bench_cadiera_flores_an-it
+  - aragonese_bench_cadiera_flores_an-pt
+  - aragonese_bench_cadiera_flores_ca-an
+  - aragonese_bench_cadiera_flores_de-an
+  - aragonese_bench_cadiera_flores_en-an
+  - aragonese_bench_cadiera_flores_es-an
+  - aragonese_bench_cadiera_flores_eu-an
+  - aragonese_bench_cadiera_flores_fr-an
+  - aragonese_bench_cadiera_flores_gl-an
+  - aragonese_bench_cadiera_flores_it-an
+  - aragonese_bench_cadiera_flores_pt-an
+  - metric: bleu
+    aggregation: mean
+    weight_by_size: false
+metadata:
+  version: 1.0
