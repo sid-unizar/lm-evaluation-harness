@@ -24,23 +24,23 @@ The name (`cadiera`) is a pun on the Aragonese name for bench(mark).
 * `siqa_an`: SIQA (only validation set) [https://huggingface.co/datasets/cadiera/SIQA_an]
 * `mgsm_direct_an`: MGSM (Direct version) [https://huggingface.co/datasets/cadiera/mgsm_an]
 
-* flores_an
-* flores_an-en
-* flores_an-es
-* flores_an-eu
-* flores_an-fr
-* flores_an-gl
-* flores_an-it
-* flores_an-pt
-* flores_ca-an
-* flores_de-an
-* flores_en-an
-* flores_eu-an
-* flores_es-an
-* flores_fr-an
-* flores_gl-an
-* flores_it-an
-* flores_pt-an
+* `flores_an`
+* `flores_an-en`
+* `flores_an-es`
+* `flores_an-eu`
+* `flores_an-fr`
+* `flores_an-gl`
+* `flores_an-it`
+* `flores_an-pt`
+* `flores_ca-an`
+* `flores_de-an`
+* `flores_en-an`
+* `flores_eu-an`
+* `flores_es-an`
+* `flores_fr-an`
+* `flores_gl-an`
+* `flores_it-an`
+* `flores_pt-an`
 
 ### Checklist
 
