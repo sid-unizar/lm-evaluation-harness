@@ -1,0 +1,10 @@
+group: aragonese_bench_cadiera
+task:
+  - copa_an
+  - belebele_arg_Latn
+  - paws_an
+  - wnli_an
+  - siqa_an
+  - mgsm_direct_an
+metadata:
+  version: 1.0
